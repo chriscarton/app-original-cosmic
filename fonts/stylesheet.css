@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'COCOGOOSE';
+    src: url('Cocogoose.woff2') format('woff2'),
+        url('Cocogoose.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu Mono';
+    src: url('UbuntuMono-Regular.woff2') format('woff2'),
+        url('UbuntuMono-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
